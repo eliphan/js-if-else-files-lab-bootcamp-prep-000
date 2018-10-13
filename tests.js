@@ -13,4 +13,4 @@ if (index.height === 70) {
 } else {
     console.log("Expected: 70, Received: "+index.height)
 }
-parseInt('var height = 70')
+parseInt('height = 70')
